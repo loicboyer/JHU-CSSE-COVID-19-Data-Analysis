@@ -1,8 +1,7 @@
-# COVID-19-Analysis-and-Visualizations
+# JHU CSSE COVID-19 datasets analysis & visualizations
 COVID19 data analysis and visualizations using data collected from repository for the 2019 Novel Coronavirus operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).https://github.com/CSSEGISandData/COVID-19
 
-# JHU CSSE COVID-19 Dataset
-[Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+## [Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 This folder contains daily case reports. All timestamps are in UTC (GMT+0).
 
 ### Field description
