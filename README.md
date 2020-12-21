@@ -1,5 +1,4 @@
-# JHU CSSE COVID-19 Data Analysis
-## COVID19 data Analysis, Visualizations and Predictions using 2019-nCoV Data Repository by Johns Hopkins CSSE. 
+# COVID19 Data Analysis, Visualizations and Predictions using 2019-nCoV Data Repository by Johns Hopkins CSSE. 
 
 ## [Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 This folder contains daily case reports. All timestamps are in UTC (GMT+0).
