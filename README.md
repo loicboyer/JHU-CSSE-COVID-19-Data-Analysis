@@ -1,7 +1,7 @@
 # [Johns Hopkins CSSE 2019-nCoV](https://github.com/CSSEGISandData/COVID-19) Data Analysis
 COVID19 Data Analysis, Visualizations and Predictions using 2019-nCoV Data Repository by Johns Hopkins CSSE.
 
-This notebook is available at: 
+This notebook is available at: https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis
 
 ## Data Visualizations
 
