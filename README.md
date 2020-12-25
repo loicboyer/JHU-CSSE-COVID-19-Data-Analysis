@@ -8,9 +8,6 @@ This notebook is available at:
 ### Europe confirmed cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-europe.png" width=600, align="center">
 
-### Europe recoveries cases:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/recoveries-europe.png" width=600, align="center">
-
 ### Europe deaths cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-europe.png" width=600, align="center">
 
@@ -19,18 +16,20 @@ This notebook is available at:
 ### North America confirmed cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-northamerica.png" width=600, align="center">
 
-### North America recoveries cases:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/recoveries-northamerica.png" width=300, align="right">
-
 ### North America deaths cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-northamerica.png" width=600, align="center">
+
 --------------------
 
+### South America confirmed cases:
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-southamerica.png" width=600, align="center">
+
+### South America deaths cases:
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-southamerica.png" width=600, align="center">
+
+--------------------
 ### Asia confirmed cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-asia.png" width=600, align="center">
-
-### Asia recoveries cases:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/recoveries-asia.png" width=600, align="center">
 
 ### Asia deaths cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-asia.png" width=600, align="center">
@@ -40,21 +39,18 @@ This notebook is available at:
 ### Africa confirmed cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-africa.png" width=600, align="center">
 
-### Africa recoveries cases:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/recoveries-africa.png" width=600, align="center">
-
 ### Africa deaths cases:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-africa.png" width=600, align="center">
 
 ----------------------
 
-### Happiness vs maximum infection rate:
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmapconfirmed.png" width=1500, align="center">
+### Oceania confirmed cases:
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-oceania.png" width=600, align="center">
 
+### Oceania deaths cases:
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/deaths-oceania.png" width=600, align="center">
 
-
-### Happiness vs maximum recovery rate:
-<img src="https://github.com/loicboyer/COVID-19-vs-World-Happiness_Data-Analysis/blob/main/img/heatmaprecoveries.png" width=1500, align="center">
+----------------------
 
 ## Data Analysis
 ## Data Regressions
