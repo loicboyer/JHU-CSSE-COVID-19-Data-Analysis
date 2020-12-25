@@ -59,7 +59,7 @@ This notebook is available at:
 
 ---------------------
 ### Hiercharhical Visualitation of the Cases:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/treemap.png" width=1500, align="center">
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/treemap.svg" width=1500, align="center">
 
 --------------------- 
 ### Maximum Infection rate by Country:
