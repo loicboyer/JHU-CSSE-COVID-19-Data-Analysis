@@ -57,7 +57,7 @@ This notebook is available at:
 ## Data Analysis
 
 ### 2019-nCoV infection rate by Country:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/Countries-infection-rate.png" width=600, align="center">
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/Countries-infection-rate.png" width=1500, align="center">
 
 ---------------------
 
@@ -72,7 +72,7 @@ This notebook is available at:
 ---------------------
 
 ### 2019-nCoV infection rate in UK:
-<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-oceania.png" width=600, align="center">
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/curve-uk.png" width=600, align="center">
 
 ---------------------
 
