@@ -52,22 +52,33 @@ This notebook is available at:
 
 ----------------------
 
+----------------------
+
 ## Data Analysis
 
 ### 2019-nCoV infection rate by Country:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/Countries-infection-rate.png" width=600, align="center">
 
+---------------------
+
 ### 2019-nCoV infection rate in France:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/curve-fr.png" width=600, align="center">
+
 ---------------------
+
 ### 2019-nCoV infection rate in USA:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/curve-us.png" width=600, align="center">
+
 ---------------------
+
 ### 2019-nCoV infection rate in UK:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/confirmed-oceania.png" width=600, align="center">
+
 ---------------------
+
 ### 2019-nCoV infection rate in India:
 <img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Vizualisations/img/curve-in.png" width=600, align="center">
+
 
 ## Data Regressions
 
