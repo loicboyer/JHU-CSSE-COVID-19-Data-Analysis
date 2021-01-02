@@ -1,0 +1,217 @@
+Economy	(thousands)
+China	 1,397,715 
+India	 1,366,418 
+United States	328,24
+Indonesia	270,626
+Pakistan	216,565
+Brazil	211,05
+Nigeria	200,964
+Bangladesh	163,046
+Russian Federation	144,374
+Mexico	127,576
+Japan	126,265
+Ethiopia	112,079
+Philippines	108,117
+Egypt, Arab Rep.	100,388
+Vietnam	96,462
+Congo, Dem. Rep.	86,791
+Turkey	83,43
+Germany	83,133
+Iran, Islamic Rep.	82,914
+Thailand	69,626
+France	67,06
+United Kingdom	66,834
+Italy	60,297
+South Africa	58,558
+Tanzania	58,005
+Myanmar	54,045
+Kenya	52,574
+Korea, Rep.	51,709
+Colombia	50,339
+Spain	47,077
+Argentina	44,939
+Ukraine	44,385
+Uganda	44,27
+Algeria	43,053
+Sudan	42,813
+Iraq	39,31
+Afghanistan	38,042
+Poland	37,971
+Canada	37,589
+Morocco	36,472
+Saudi Arabia	34,269
+Uzbekistan	33,581
+Peru	32,51
+Malaysia	31,95
+Angola	31,825
+Ghana	30,418
+Mozambique	30,366
+Yemen, Rep.	29,162
+Nepal	28,609
+Venezuela, RB	28,516
+Madagascar	26,969
+Cameroon	25,876
+C?te d'Ivoire	25,717
+Korea, Dem. People's Rep.	25,666
+Australia	25,364
+Niger	23,311
+Sri Lanka	21,803
+Burkina Faso	20,321
+Mali	19,658
+Romania	19,357
+Chile	18,952
+Malawi	18,629
+Kazakhstan	18,514
+Zambia	17,861
+Ecuador	17,374
+Netherlands	17,333
+Syrian Arab Republic	17,07
+Guatemala	16,604
+Cambodia	16,487
+Senegal	16,296
+Chad	15,947
+Somalia	15,443
+Zimbabwe	14,645
+Guinea	12,771
+Rwanda	12,627
+Benin	11,801
+Tunisia	11,695
+Burundi	11,531
+Bolivia	11,513
+Belgium	11,484
+Cuba	11,333
+Haiti	11,263
+South Sudan	11,062
+Dominican Republic	10,739
+Greece	10,716
+Czech Republic	10,67
+Sweden	10,285
+Portugal	10,269
+Jordan	10,102
+Azerbaijan	10,023
+United Arab Emirates	9,771
+Hungary	9,77
+Honduras	9,746
+Belarus	9,467
+Tajikistan	9,321
+Israel	9,053
+Austria	8,877
+Papua New Guinea	8,776
+Switzerland	8,575
+Togo	8,082
+Sierra Leone	7,813
+Hong Kong SAR, China	7,507
+Lao PDR	7,169
+Paraguay	7,045
+Bulgaria	6,976
+Serbia	6,945
+Lebanon	6,856
+Libya	6,777
+Nicaragua	6,546
+Kyrgyz Republic	6,457
+El Salvador	6,454
+Turkmenistan	5,942
+Denmark	5,819
+Singapore	5,704
+Finland	5,52
+Slovak Republic	5,454
+Congo, Rep.	5,381
+Norway	5,348
+Costa Rica	5,048
+Oman	4,975
+Ireland	4,941
+Liberia	4,937
+New Zealand	4,917
+Central African Republic	4,745
+West Bank and Gaza	4,685
+Mauritania	4,526
+Panama	4,246
+Kuwait	4,207
+Croatia	4,068
+Georgia	3,72
+Uruguay	3,462
+Bosnia and Herzegovina	3,301
+Mongolia	3,225
+Puerto Rico	3,194
+Armenia	2,958
+Jamaica	2,948
+Albania	2,854
+Qatar	2,832
+Lithuania	2,787
+Moldova	2,658
+Namibia	2,495
+Gambia, The	2,348
+Botswana	2,304
+Gabon	2,173
+Lesotho	2,125
+Slovenia	2,088
+North Macedonia	2,083
+Guinea-Bissau	1,921
+Latvia	1,913
+Kosovo	1,794
+Bahrain	1,641
+Trinidad and Tobago	1,395
+Equatorial Guinea	1,356
+Estonia	1,327
+Timor-Leste	1,293
+Mauritius	1,266
+Cyprus	1,199
+Eswatini	1,148
+Djibouti	974
+Fiji	890
+Comoros	851
+Guyana	783
+Bhutan	763
+Solomon Islands	670
+Macao SAR, China	640
+Montenegro	622
+Luxembourg	620
+Suriname	581
+Cabo Verde	550
+Maldives	531
+Malta	503
+Brunei Darussalam	433
+Belize	390
+Bahamas, The	389
+Iceland	361
+Vanuatu	300
+New Caledonia	288
+Barbados	287
+French Polynesia	279
+S?o Tom? and Principe	215
+Samoa	197
+St. Lucia	183
+Channel Islands	172
+Guam	167
+Cura?ao	158
+Kiribati	118
+Micronesia, Fed. Sts.	114
+Grenada	112
+St. Vincent and the Grenadines	111
+Virgin Islands (U.S.)	107
+Aruba	106
+Tonga	104
+Seychelles	98
+Antigua and Barbuda	97
+Isle of Man	85
+Andorra	77
+Dominica	72
+Cayman Islands	65
+Bermuda	64
+Marshall Islands	59
+Northern Mariana Islands	57
+Greenland	56
+American Samoa	55
+St. Kitts and Nevis	53
+Faroe Islands	49
+Sint Maarten (Dutch part)	41
+Monaco	39
+Turks and Caicos Islands	38
+Liechtenstein	38
+St. Martin (French part)	38
+San Marino	34
+Gibraltar	34
+British Virgin Islands	30
+Palau	18
+Nauru	13
+Tuvalu	12
