@@ -86,7 +86,7 @@ This notebook is available at: https://github.com/loicboyer/JHU-CSSE-COVID-19-Da
 
 
 ## Data Regressions
-
+<img src="https://github.com/loicboyer/JHU-CSSE-COVID-19-Data-Analysis/blob/master/Predictions/predictions.png" width=600, align="center">
 ---
 
 
